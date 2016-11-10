@@ -1,0 +1,125 @@
+        1	"Tiles/silla abajo.png" 
+        2       "Tiles/Azulejo.png"
+        3      "Tiles/ExtraLab 1.png"
+        4        "Tiles/ExtraLab 2.png"
+        5       "Tiles/ExtraLab 3.png"
+        6       "Tiles/ExtraLab 4.png"
+        7       "Tiles/Mesa 2.png"
+        8       "Tiles/Mesa 3.png"
+        9        "Tiles/Pared 1.png"
+        a        "Tiles/Pared 2.png"
+        b        "Tiles/Pared 3.png"
+        c        "Tiles/Pared 4.png"
+        d        "Tiles/Pared 5.png"
+        e        "Tiles/Pared 6.png"
+        f        "Tiles/Pared 7.png"
+        g        "Tiles/Pared 8.png"
+        h        "Tiles/Piedra a Roca Gris 1.png"
+        i        "Tiles/Piedra a Roca Gris 2.png"
+        j        "Tiles/Piedra a Roca Gris 3.png"
+        k        "Tiles/Piedra a Roca Gris 4.png"
+        l        "Tiles/Piedra a Roca Gris 5.png"
+        m        "Tiles/Piedra a Roca Gris 6.png"
+        n        "Tiles/Piedra a Roca Gris 7.png"
+        o        "Tiles/Piedra a Roca Gris 8.png"
+        p        "Tiles/Piedra a Zacate 1.png"
+        q        "Tiles/Piedra a Zacate 2.png"
+        r        "Tiles/Piedra a Zacate 3.png"
+        s        "Tiles/Piedra a Zacate 4.png"
+        t        "Tiles/Piedra a Zacate 5.png"
+        u        "Tiles/Piedra a Zacate 6.png"
+        v        "Tiles/Piedra a Zacate 7.png"
+        w        "Tiles/Piedra a Zacate 8.png"
+        x        "Tiles/Piedra.png"
+        y        "Tiles/Puerta 1.png"
+        z  		"Tiles/Puerta 2.png"  
+        A  		"Tiles/Roca Gris a Piedra 1.png"
+        B  		"Tiles/Roca Gris a Piedra 2.png"
+        C  		"Tiles/Roca Gris a Piedra 3.png"
+        D  		"Tiles/Roca Gris a Piedra 4.png"
+        E        "Tiles/Roca Gris a Piedra 5.png"
+        F        "Tiles/Roca Gris a Piedra 6.png"
+        G        "Tiles/Roca Gris a Piedra 7.png"
+        H        "Tiles/Roca Gris a Piedra 8.png"
+        I        "Tiles/Roca Gris a Zacate 1.png"
+        J        "Tiles/Roca Gris a Zacate 2.png"
+        K        "Tiles/Roca Gris a Zacate 3.png"
+        L        "Tiles/Roca Gris a Zacate 4.png"
+        M        "Tiles/Roca Gris a Zacate 5.png"
+        N        "Tiles/Roca Gris a Zacate 6.png"
+        O        "Tiles/Roca Gris a Zacate 7.png"
+        P        "Tiles/Roca Gris a Zacate 8.png"
+        Q        "Tiles/Roca Gris.png"
+        R        "Tiles/Zacate.png"
+        S        "Tiles/Zacate Piedra 1.png"
+        T        "Tiles/Zacate Piedra 2.png"
+        U        "Tiles/Zacate Piedra 3.png"
+        V        "Tiles/Zacate Piedra 4.png"
+        W        "Tiles/Zacate Piedra 5.png"
+        X        "Tiles/Zacate Piedra 6.png"
+        Y        "Tiles/Zacate Piedra 7.png"
+        Z        "Tiles/Zacate Piedra 8.png"
+
+        !         "Tiles/pared mundo 1.pn"
+
+        "        "Tiles/pared mundo 3.png"
+
+        #        "Tiles/pared mundo 4.png"
+
+        $         "Tiles/pared mundo 6.png"
+
+        %        "Tiles/pared mundo 9.png"
+
+        &         "Tiles/pared mundo 10.png"
+
+        '        "Tiles/pared mundo 11.png"
+
+        (        "Tiles/Mesa 1.png"
+
+        )         "Tiles/pared mundo 14.png"
+
+        *        "Tiles/pared mundo 16.png"
+
+         +        "Tiles/pared mundo 18.png"
+
+         ,        "Tiles/Puerta 4.png"
+
+         -        "Tiles/agua 1.png"
+
+         .        "Tiles/agua 2.png"
+
+         /        "Tiles/agua 3.png"
+
+        ^         "Tiles/agua 4.png"
+
+         :        "Tiles/agua 5.png"
+
+         ;        "Tiles/agua 6.png"
+
+          <       "Tiles/agua 7.png"
+
+          =       "Tiles/agua 8.png"
+
+         >        "Tiles/agua.png"
+
+        ?        "Tiles/banca derecha 1.png"
+
+        @         "Tiles/banca derecha 2.png"
+
+        _         "Tiles/banca derecha 3.png"
+
+        {        "Tiles/silla abajo.png"
+
+        |         "Tiles/silla derecha.png"
+
+        }        "Tiles/silla abajo.png"
+
+         ~        "Tiles/silla derecha.png"
+
+
+
+
+        pqqq
+        wABB
+        wGFF
+        vXXX

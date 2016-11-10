@@ -1,0 +1,25 @@
+public void grabarJuego() throws IOException {
+                String nombreArchivo = "saveFile.txt";
+                 PrintWriter fileOut = new PrintWriter(new FileWriter(nombreArchivo));
+                    // fileOut.println(iVidas);
+                    fileOut.println(iScore);
+                    fileOut.println(iColisiones);
+                    fileOut.println(perNena.getX());
+                    fileOut.println(perNena.getY());
+                    fileOut.println(encCaminadores.size());
+                    for (Object encCaminador : encCaminadores) {
+                        Personaje Caminador = (Personaje)encCaminador;
+                        fileOut.println(Caminador.getX());
+                        fileOut.println(Caminador.getY());
+                        fileOut.println(Caminador.getVelocidad());
+                    }
+                    fileOut.println(encCorredores.size());
+                    for (Object encCorredor : encCorredores) {
+                        Personaje Corredor = (Personaje)encCorredor;
+                        fileOut.println(Corredor.getX());
+                        fileOut.println(Corredor.getY());
+                        fileOut.println(Corredor.getVelocidad());
+                    }
+                fileOut.close();
+
+}

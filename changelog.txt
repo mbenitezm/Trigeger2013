@@ -1,0 +1,7 @@
+menu{
+	public int selectedOption
+}
+
+class Option
+deleted class Option
+---------------------------
